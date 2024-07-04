@@ -1,0 +1,4 @@
+incident report:
+- alert data
+- average temp and other values of last month on a graph
+- new people added

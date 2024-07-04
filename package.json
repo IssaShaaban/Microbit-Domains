@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "plotly": "^1.0.6",
+    "plotly.js": "^2.29.1",
+    "react-plotly.js": "^2.6.0",
+    "victory": "^36.9.1"
+  }
+}
